@@ -1,0 +1,12 @@
+.display-4
+{
+    color:#333;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lead, .card-text
+{
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 400;
+}
